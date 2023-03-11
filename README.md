@@ -1,8 +1,8 @@
-# Python `functions-framework` Skeleton
+# 🦴 Python `functions-framework` Skeleton
 
 Quickstart skeleton for new serverless functions using `functions-framework` for Python.
 
-## Features
+## 🌟 Features
 
 - well-prepared `.gitignore` to get started quickly and keep your repository clean
 - `pre-commit` config to keep a tidy repository, which include:
@@ -16,7 +16,7 @@ Quickstart skeleton for new serverless functions using `functions-framework` for
 - prepared `pytest` skeleton and HTTP request fixture
   - including measurement of unit test coverage using `coverage` with a pre-configured `.coveragerc`
 
-## Installation
+## 📦 Installation
 
 ```bash
 # clone the repository
@@ -38,7 +38,7 @@ source venv/bin/activate
 pip install -r requirements-dev.txt
 ```
 
-## Usage/Examples
+## 👷 Usage/Examples
 
 To run the application locally, start it with `functions-framework`:
 
