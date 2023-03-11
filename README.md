@@ -29,13 +29,13 @@ cd py-functions-framework-skeleton
 # rm -rf .git/
 
 # Install everything to get up and running
-pre-commmit install
-pre-commit run -a
-
 python -m venv venv
 source venv/bin/activate
 
 pip install -r requirements-dev.txt
+
+pre-commmit install
+pre-commit run -a
 ```
 
 ## 👷 Usage/Examples
